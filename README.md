@@ -2,6 +2,8 @@
 
 # Time_Series_analysis
 
+Time series tries to figure out a seasonal pattern or trend in the observed time-series data and uses it for future predictions or forecasting. Forecasting involves taking models rich in historical data and using them to predict future observations.
+
 The program analyzes the data and predicts into future movement in the vaue of the the Japanese yen versus the US dollar. It uses Time Series  and Linear Regression forcasting models for data modelling and forcasting. 
 
 In the Time Series Forcasting, the tool uses ARMA and ARIMA models to forcast price and returns. It uses GARCH model to forcast volatility. 
