@@ -1,3 +1,5 @@
+![Time_Series](https://github.com/Tijaw1/Time_Series_analysis/blob/main/Time-Series-Analysis%20(2).jpg)
+
 # Time_Series_analysis
 
 The program analyzes the data and predicts into future movement in the vaue of the the Japanese yen versus the US dollar. It uses Time Series  and Linear Regression forcasting models for data modelling and forcasting. 
